@@ -1,0 +1,6 @@
+filter_step	n_genes
+all_featureCounts_genes	55359
+protein_coding	21834
+protein_coding_non_histone	21834
+plus_RNA_count_filter	9914
+plus_RPF_count_filter	7840
