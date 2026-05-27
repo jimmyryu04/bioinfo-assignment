@@ -1,0 +1,4 @@
+x	y	n	pearson_r	pearson_p	spearman_r	spearman_p
+CLIP_enrichment	RNA_log2FC	7840	-0.271694	1.0089e-132	-0.29496	3.68613e-157
+CLIP_enrichment	RPF_log2FC	7840	0.2931	4.05108e-155	0.281971	3.15741e-143
+CLIP_enrichment	TE_log2FC	7840	0.487899	0	0.480864	0
