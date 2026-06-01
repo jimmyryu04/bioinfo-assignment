@@ -1,0 +1,4 @@
+Geneid	gene_name	present_in_filtered_table	is_candidate	CLIP_enrichment	RNA_log2FC	TE_log2FC	CLIP_group
+ENSMUSG00000031447.8	Lamp1	True	True	0.786437	0.0542007	0.796986	5-20%
+ENSMUSG00000045394.10	Epcam	True	False	0.600737	0.094098	0.662892	5-20%
+ENSMUSG00000000303.13	Cdh1	True	False	1.62305	0.0852743	0.699539	top 5%

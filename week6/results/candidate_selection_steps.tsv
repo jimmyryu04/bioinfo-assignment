@@ -1,0 +1,6 @@
+selection_step	n_genes
+base_filtered_genes_from_week5	7840
+CLIP_top20	1568
+CLIP_top20_and_abs_RNA_log2FC_le_0.5	1306
+CLIP_top20_and_TE_log2FC_ge_0.75	231
+final_candidates	177
