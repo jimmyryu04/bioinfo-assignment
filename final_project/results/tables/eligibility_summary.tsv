@@ -1,0 +1,8 @@
+stage	n
+gene_response_rows	55359
+response_eligible	9149
+representative_region_matched	21743
+has_all_regions	20465
+clip_points_total_ge_10	12641
+rna_each_region_ge_5	6230
+composition_eligible_model_set	5723

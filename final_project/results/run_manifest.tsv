@@ -1,0 +1,12 @@
+key	value
+project_dir	/qbio/ryu/project/etc/bioinformatics/final_project
+results_dir	/qbio/ryu/project/etc/bioinformatics/final_project/results
+read_counts	/qbio/ryu/project/etc/bioinformatics/final_project/week1/work/read-counts.txt
+gtf	/qbio/ryu/project/etc/bioinformatics/final_project/week1/work/binfo1-datapack1/gencode.gtf
+clip_bam	/qbio/ryu/project/etc/bioinformatics/final_project/week1/work/binfo1-datapack1/CLIP-35L33G.bam
+rna_control_bam	/qbio/ryu/project/etc/bioinformatics/final_project/week1/work/binfo1-datapack1/RNA-control.bam
+min_response_count	30
+min_baseline_count	30
+min_clip_points	10
+min_rna_region	5
+pseudocount_cpm	0.1

@@ -1,0 +1,4 @@
+model	predictors	n	p_parameters	r2	sse	delta_r2_vs_previous	nested_F_vs_previous	nested_p_vs_previous	df_num_vs_previous	df_den_vs_previous
+M0	log_rna_expression + log_transcript_length	5723	3	0.07009839890703162	1682.357717607243					
+M1	M0 + total_CLIP_amount_point	5723	4	0.28428947055017406	1294.847897215633	0.21419107164314244	1711.5281783946516	0.0	1.0	5719.0
+M2	M1 + f_cds + f_3utr	5723	6	0.2922648842538572	1280.41895249747	0.007975413703683154	32.212221161222544	1.2264411233155627e-14	2.0	5717.0
